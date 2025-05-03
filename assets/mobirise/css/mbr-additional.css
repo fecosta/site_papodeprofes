@@ -823,6 +823,7 @@ a {
 .cid-uK4HvyjY2B .navbar-nav {
   margin: auto;
   margin-left: 0;
+  margin-left: auto;
 }
 .cid-uK4HvyjY2B .navbar-nav .nav-item {
   padding: 0 !important;
@@ -998,7 +999,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uK4HvyjY2B .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 1.6rem);
+    max-height: calc(98.5vh - 3.1rem);
   }
 }
 .cid-uK4HvyjY2B .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1487,6 +1488,54 @@ a {
 .cid-uK4Go776Bd .mbr-section-btn {
   color: #ffffff;
 }
+.cid-uK8KYsaXIT {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #edefeb;
+}
+.cid-uK8KYsaXIT .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uK8KYsaXIT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 767px) {
+  .cid-uK8KYsaXIT .card-content-text {
+    padding: 1.5rem 1.5rem 0 1.5rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-uK8KYsaXIT .card-content-text {
+    padding: 2.25rem 2.25rem 0 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uK8KYsaXIT .card-content-text {
+    padding: 4rem 4rem 1rem 4rem;
+  }
+}
+.cid-uK8KYsaXIT .card-wrapper {
+  background: #ffffff;
+}
+.cid-uK8KYsaXIT .mbr-text,
+.cid-uK8KYsaXIT .mbr-section-btn {
+  color: #000000;
+  text-align: left;
+}
+.cid-uK8KYsaXIT .card-title,
+.cid-uK8KYsaXIT .card-box {
+  text-align: left;
+  color: #000000;
+}
+.cid-uK8KYsaXIT .image-wrapper img {
+  width: 100%;
+}
 .cid-uK3NyooLlN {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1565,7 +1614,7 @@ a {
 }
 .cid-tIsljcLokI .item-subtitle {
   line-height: 1.2;
-  color: #ffaac7;
+  color: #ffffff;
 }
 .cid-tIsljcLokI img,
 .cid-tIsljcLokI .item-img {
@@ -1599,7 +1648,7 @@ a {
   margin-top: auto;
 }
 .cid-tIsljcLokI .mbr-section-title {
-  color: #ffaac7;
+  color: #ffa600;
   text-align: left;
 }
 .cid-tIsljcLokI .mbr-text,
@@ -1607,7 +1656,7 @@ a {
   color: #232323;
 }
 .cid-tIsljcLokI .item-title {
-  color: #ffaac7;
+  color: #ffffff;
 }
 .cid-uK4KuMDAWL {
   padding-top: 6rem;
